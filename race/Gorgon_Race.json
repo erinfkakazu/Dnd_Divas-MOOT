@@ -34,18 +34,20 @@
 				"uncommon race"
 			],
 			"darkvision": 30,
+			"entries":[
+				{
+					"type": "entries",
+					"name": "Gorgon",
+					"entries": [
+						"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
+					]
+				}
+			],
 			"subraces": [
 				{
 					"name": "Essirius",
 					"source": "",
 					"entries":[
-						{
-							"type": "entries",
-							"name": "Gorgon",
-							"entries": [
-								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
-							]
-						},
 						{
 							"type": "entries",
 							"name": "Essirius Gorgons",
@@ -138,18 +140,11 @@
 							]
 						}
 					]
-					},
+				},
 				{
 					"name": "Vunaicon",
 					"source": "",
 					"entries":[
-						{
-							"type": "entries",
-							"name": "Gorgon",
-							"entries": [
-								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
-							]
-						},
 						{
 							"type": "entries",
 							"name": "Vunaicon Gorgons",
@@ -247,13 +242,6 @@
 					"name": "Veneriom",
 					"source": "",
 					"entries":[
-						{
-							"type": "entries",
-							"name": "Gorgon",
-							"entries": [
-								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
-							]
-						},
 						{
 							"type": "entries",
 							"name": "Veneriom Gorgons",
@@ -373,13 +361,6 @@
 					"name": "Iridion",
 					"source": "",
 					"entries":[
-						{
-							"type": "entries",
-							"name": "Gorgon",
-							"entries": [
-								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
-							]
-						},
 						{
 							"type": "entries",
 							"name": "Iridion Gorgons",
