@@ -1,11 +1,8 @@
 {
 	"race":{
-        "race/Gorgon_Race.json": "race",
-        "race/Dryad_Race.json": "race",
-		
-	},
-	"adventure":{
-        "<object_name>":{
-            "<dir_name>/<filename>.json": "<object>"
-       }
+        "race/Gorgon_Race.json": "Gorgon",
+        "race/Dryad_Race.json": "Dryad",
+        "race/Nyad_Race.json": "Nyad",
+        "race/Siren_Race.json": "Siren"
+	}
 }

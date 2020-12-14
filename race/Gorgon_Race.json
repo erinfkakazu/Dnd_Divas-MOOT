@@ -3,7 +3,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "Gorgon_Race",
+				"json": "MOOT_Gorgon_Race",
 				"full": "Mythical Odysseys of Theros Gorgon race",
 				"abbreviation": "MOOTG",
 				"authors": [
@@ -124,7 +124,6 @@
 				{
 					"name": "Essirius",
 					"source": "",
-					"overwrite": {
 						"languageProficiencies": true,
 						"resist": [
 							"slashing","piercing"
@@ -146,7 +145,7 @@
 							}
 							
 						]
-					}
+					
 				},
 				{
 					"name": "Iridion",
