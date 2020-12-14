@@ -74,14 +74,14 @@
 					"type": "entries",
 					"name": "Languages",
 					"entries": [
-                        "You can speak, read, and write Common and Drudaeic the language of the plants",
+                        "You can speak, read, and write Common and Drudaeic the language of the plants"
 					]
                 },
                 {
 					"type": "entries",
 					"name": "Resistance",
 					"entries": [
-                        "You are resistant to radiant damage.",
+                        "You are resistant to radiant damage."
 					]
 				},
 				{
@@ -102,14 +102,14 @@
 					"type": "entries",
 					"name": "Forests Ichor",
 					"entries": [
-						"Dyrads were created from the divine desires of Nylea Goddess of the hunt to be able to speak to the trees, glean their wisdom, and aide them in protection against the ever expanding empires. Just like how if mortals wish enough for the gods to make something come about, the gods can bring their own desires to fruition with enough work in their mystical arts. She reached her hand over the borders of the mortal plane and into the void of Nyx and plucked her dream from the skies casting it into the mortal plane. However their ability to walk was granted to them by Xenagos the planeswalker satyr who accomplished becoming a god. He gifted unto them the ability to either carry a seed which would hold their soul, or to carry a piece of their tethered sprout, (reffered to as their Kardia) leaving them free to walk the world no longer trapped by their limitations. Dryads come in a variety of colors and shapes related to the species of their Kardia, and are able to appear in the form they most identify with. The most common Dryad species are the Fir tree, Olive Tree, Lotus flower, poppy flower, and Acanthus mollis flower.",
+						"Dyrads were created from the divine desires of Nylea Goddess of the hunt to be able to speak to the trees, glean their wisdom, and aide them in protection against the ever expanding empires. Just like how if mortals wish enough for the gods to make something come about, the gods can bring their own desires to fruition with enough work in their mystical arts. She reached her hand over the borders of the mortal plane and into the void of Nyx and plucked her dream from the skies casting it into the mortal plane. However their ability to walk was granted to them by Xenagos the planeswalker satyr who accomplished becoming a god. He gifted unto them the ability to either carry a seed which would hold their soul, or to carry a piece of their tethered sprout, (reffered to as their Kardia) leaving them free to walk the world no longer trapped by their limitations. Dryads come in a variety of colors and shapes related to the species of their Kardia, and are able to appear in the form they most identify with. The most common Dryad species are the Fir tree, Olive Tree, Lotus flower, poppy flower, and Acanthus mollis flower."
 					]
                 },
                 {
 					"type": "entries",
 					"name": "One sided trust",
 					"entries": [
-						"People strongly trust Dryads because of their sweet and playful nature, but rarely do Dryads truly trust most other creatures. Many of their race tend to believe all beings have some kind of agenda. A common agenda is that people ask Dryads to help them grow their crops or plants only to cut down those plants at the end of the season. “It’s murder I tell ya!”.  Or they may believe that other mortals are just like the gods, fickle, and that they are only there for you until they’ve gotten what they have needed. However, even though Dryad’s don’t trust most other people they don’t let that mistrust breed resentment or anger because most of these people won’t live that much longer in comparison to the long life of a dryad anyways. And some Dryad’s have come to peace with this cultural view and let it lay to rest as their ventures outside of their grottos, meadows, and forests have put them in situations to prove otherwise that people are genuinely trustworthy",
+						"People strongly trust Dryads because of their sweet and playful nature, but rarely do Dryads truly trust most other creatures. Many of their race tend to believe all beings have some kind of agenda. A common agenda is that people ask Dryads to help them grow their crops or plants only to cut down those plants at the end of the season. “It’s murder I tell ya!”.  Or they may believe that other mortals are just like the gods, fickle, and that they are only there for you until they’ve gotten what they have needed. However, even though Dryad’s don’t trust most other people they don’t let that mistrust breed resentment or anger because most of these people won’t live that much longer in comparison to the long life of a dryad anyways. And some Dryad’s have come to peace with this cultural view and let it lay to rest as their ventures outside of their grottos, meadows, and forests have put them in situations to prove otherwise that people are genuinely trustworthy"
 					]
                 },
                 {
@@ -137,8 +137,6 @@
 								"con": 1
 							},
 							{
-								"note": "Best classes: Barbarian, Fighter, Monk",
-								"note2": "Okay classes: Ranger, Sorcerer, Artificer",
 								"type": "entries",
 								"name": "Tail whip",
 								"entries": [
@@ -188,8 +186,6 @@
 								"int": 1
 							},
 							{
-								"note": "Best classes: rogue",
-								"note2": "Okay classes: ranger, wizard, Monk, Druid, Bard, Arteficer",
 								"type": "entries",
 								"name": "Venom Strike",
 								"entries": [
@@ -214,8 +210,6 @@
 								"dex": 1
 							},
 							{
-								"note": "Best classes: Ranger, Monk, Rogue.",
-								"note2": "Okay classes: Barbarian, Bard, Fighter ",
 								"type": "entries",
 								"name": "Acid Surge",
 								"entries": [
@@ -240,8 +234,6 @@
 								"dex": 1
 							},
 							{
-								"note": "Best classes: Ranger, Monk, Rogue.",
-								"note2": "Okay classes: Barbarian, Bard, Fighter ",
 								"type": "entries",
 								"name": "Acid Surge",
 								"entries": [
