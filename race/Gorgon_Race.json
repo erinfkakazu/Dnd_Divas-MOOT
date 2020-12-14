@@ -3,7 +3,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "MOOT_Gorgon_Race",
+				"json": "Gorgon_Race",
 				"full": "Mythical Odysseys of Theros Gorgon race",
 				"abbreviation": "MOOTG",
 				"authors": [
@@ -57,7 +57,7 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Ability Score Increase",
+					"name": "Ability Scor Increase",
 					"entries": [
 						"Your Dexterity score increases by 2, and your constitution score increases by 1."
 					]
@@ -106,7 +106,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Hypnotic Gaze",
+					"name": "Hynotic Gaze",
 					"entries": [
 						"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
 					]
@@ -118,21 +118,13 @@
 						"You are a child of Pharika, and do not know who you father is. It's become apparent however that all the clutches have different colors and abilities. It is likely Pharika has had many different partners. Your specie type chooses your scale color and damage type. The Essirius have scales in earthy colors such as whites, creams, tans, browns, and blacks and come in either one color or multiple earthtones creating intricate patterns. This species is most known for it's strength and constitution making them great warriors. The Iridion species is always one color but it has an irridescent rainbow shine over the scales. This species is noted for it's wisdom and charisma but it's also feared due to it's necrotic damage type. Arveniom is the most colorful species with scales, ranging from average colors to neon. This species also has a variety of patterns from solid color to elbaroate diamonds. They are remembered especially by underground organizations because of their intelligence and Dexterity, making them good candidates for heists or unsavory jobs. The Vunaicon species often has metallic scales, they are more commonly just one color, but when they do have patterns their stripes, diamonds, and spots may come in white brown or some other non mettallic color while the bulk of their scales are in a mettalic shade."
 					]
 				}
+
 			],
 			"subraces": [
 				{
 					"name": "Essirius",
 					"source": "",
 					"overwrite": {
-						"entries": [
-							{
-								"type": "entries",
-								"name": "Ability Score Increase",
-								"entries": [
-									"Your wisdom score increases by 1, and your charisma score increases by 1."
-								]
-							}
-						],
 						"languageProficiencies": true,
 						"immune": [
 							"necrotic"
@@ -156,51 +148,9 @@
 					}
 				},
 				{
-					"name": "Iridion",
-					"source": "",
-						"entries": [
-							{
-								"type": "entries",
-								"name": "Ability Score Increase",
-								"entries": [
-									"Your wisdom score increases by 1, and your charisma score increases by 1."
-								]
-							}
-						],
-						"languageProficiencies": true,
-						"immune": [
-							"necrotic"
-						],
-						"darkvision": 60,
-						"ability": [
-							{
-								"wis": 1,
-								"cha": 1
-							},
-							{
-								"note": "Best classes: Cleric, Paladin, Warlock",
-								"note2": "Okay classes: Bard, Druid, Sorcerer, Wizard",
-								"type": "entries",
-								"name": "Bane Spray",
-								"entries": [
-									"You have the ability to puff or blow a 5 by 30 ft. cone of Necrotic mist (Dex save)"
-								]
-							}
-						]
-				},
-				{
-					"name": "Arveniom",
+					"name": "Vunaicon",
 					"source": "",
 					"overwrite": {
-						"entries": [
-							{
-								"type": "entries",
-								"name": "Ability Score Increase",
-								"entries": [
-									"Your dexterity score increases by 1, and your intelligence score increases by 1."
-								]
-							}
-						],
 						"languageProficiencies": true,
 						"immune": [
 							"poison"
@@ -224,18 +174,35 @@
 					}
 				},
 				{
-					"name": "Vunaicon",
+					"name": "Veneriom",
 					"source": "",
 					"overwrite": {
-						"entries": [
+						"languageProficiencies": true,
+						"resist": [
+							"acid"
+						],
+						"darkvision": 30,
+						"ability": [
 							{
+								"str": 1,
+								"dex": 1
+							},
+							{
+								"note": "Best classes: Ranger, Monk, Rogue.",
+								"note2": "Okay classes: Barbarian, Bard, Fighter ",
 								"type": "entries",
-								"name": "Ability Score Increase",
+								"name": "Acid Surge",
 								"entries": [
-									"Your strength score increases by 1, and your dexterity score increases by 1."
+									"You are able to gurgle out a fountain of acid in a cone 5 by 30 ft. line (Dex save)"
 								]
 							}
-						],
+						]
+					}
+                },
+                {
+					"name": "Iridion",
+					"source": "",
+					"overwrite": {
 						"languageProficiencies": true,
 						"resist": [
 							"acid"

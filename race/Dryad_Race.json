@@ -33,26 +33,6 @@
 			"traitTags": [
 				"uncommon race"
 			],
-			"fluff": {
-				"entries": [
-					{
-						"type": "entries",
-						"name": "History of the Nyads",
-						"entries": [
-							"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother. Gorgon Children Gorgons have male and female among their them but all females are rendererd sterile by Pharika. While some of Pharika's gorgon children look to her coldness as a test of their love and resilience, outcasted and defectors feel that they were simple creations she made with no  attachment to be used and discarded much like tools or playthings. The Gorgon's that leave the Devout communities tend to be loners simply because of their appearance and infamous reputation as unfeeling, dark, and deadly creatures petrifying everyone in sight. Even though many people would be right that they are deadly, and can petrify people they are hardly unfeeling. They are simply, more dangerous because of how much they feel. Many outcasted are angry and hurt by the abandonment of their mother Pharika and sister and brother gorgons. Many Gorgon children ponder as to who their fathers are as Pharika has had multiple partners through the eons. Medusae who are devout often serve as doctors, herbalists, advisors, assassins, and poisoners. Medusae who are defected or outcasted may be more inclined to choose a different class as a way of rebelling further against Pharika. A good example is becoming a paladin Oath of glory (Demigod) and choose to serve a different and often opposing god (Like Kruphix or Keranos). The Devout Communities, Outcasted, and Defectors. There are a total of of 30 devout communities with 25 to 50 medusae in each community. Many Medusae Look very varied from each other and come in many colors from black, brown, tan, monochrome, rainbow and anywhere in between. Many Children of Medusae believe this is partially possible if their mother Pharika had different mates from time to time. The only thing that all Medusae children seem to have in common is their tendrils of snakes they lovingly refer to as their diadems. Medusae are extremely proud of their snakes and painstakingly take care of them making sure their spines do not break as they are very fragile.  All medusae have hard scaled bodies and tend to range in weight from 150 lbs to 300 lbs. Even when small, Medusae tend to be strong and lithe. The commonly make Good Fighters and paladins as a result of their strength but not all follow the path of most resistance and are very versatile in their profession (Class) choices. The devout children often have ranking in their communities. The strongest are normally picked by Pharika to be the community leaders. Leaders keep the community in check and make sure that any orders from Pharika are followed whether it is poison experiments or helping Pharika to thwart Kruphix's Oracles. In these communities there is strict guidelines to follow the teachings and beliefs of their Mother Pharika. If the guidelines are not fully followed then in the harshest punishment of deviation a Medusae's Diadem be cut off or the rendering him or her unable to use their bane (Poison) any longer. At which point they are then outcasted from the group left in a barren wasteland to fend for themselves. Devout occasionally leave the Devout communities when ordained to do so for special missions given by Pharika. The defectors are more commonly Medusae who have escaped the tight grip of their communities and have chosen to venture forth into the world in search of a new life. Once a defector has left they cannot come back to the community or they risk losing their diadems. In these cases defectors tend to often conceal their Diadems and identities from many of the people they meet as an assurance of their own safety, it's not uncommon for them to disguise themselves as creatures that also bare scales on their skin like Dragonborn, Kobolds, or tritons if they are trying to blend in a city. Medusae names Gorgons take on the first four letters of the God they serve as their last name. For example if you follow Pharika then your last name would be Phar, or if you follow Iroas then your last name would be Iroa. If they server no god then they take on the last name that symbolizes their beliefs, or holds special meaning. Female Gorgon Name examples: (Nostra, Sthasos, Mira, Hunura, Hosta, Zovaste, Konica, Phaktule, Kestia, Virsodya, Phasta, Hyzadara, Hellete, Zeso, Zalidaria, Zaxea, etc.) Male Gorgon Name examples:( Phusdetus, Phalagos, Nevantos, Zandris, Dumarus, Stheusos, Thazo, Thulotos, Vyrion, Hadotus, Kandrotese, Chronor, Virerus, Hednys, Kenanos, etc.)"
-						]
-					}
-				],
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "www.example.com/image.png"
-						}
-					}
-				]
-			},
 			"darkvision": 30,
 			"entries": [
 				{
@@ -73,14 +53,14 @@
 					"type": "entries",
 					"name": "Alignment",
 					"entries": [
-						"Medusae follow strong beliefs, their background allows them to be either good, evil, or somewhere in between and can really differ from Medusae to Medusae depending on their upbringing within the devout communities and treatment from the Mother Creator Pharika. In cases of extreme rejection of Pharika Medusae may choose to become champions for Keranos the god of Wisdom or Kruphix the god of mysteries. In the Gray areas Medusae may side themselves with any other god or no god. And in cases of extreme devotion they commonly become Champions and servants to Pharika herself or to the Goddess Nylea."
+						"Dryad's being created under Nylea goddes of the hunt and the wilds, tend to be varied in their tendencies towards good and evil and can easily end up on either side of the coin depending on their past. "
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Size",
 					"entries": [
-						"Medusae are only a little taller and heavier than humans but smaller and shorter then dragonborn. They stand at about 6 to 7 feet tall and average about 195 pounds. Your size is Medium."
+						"Dryad's are just as varied as the species of plant from which they grow. Some Dryads are small at 4 foot and slender like their flowers, or small and stout, while some are 7 ft. tall and sturdy like the tree from which they have been tethered to. Your size is Medium."
 					]
 				},
 				{
@@ -94,35 +74,56 @@
 					"type": "entries",
 					"name": "Languages",
 					"entries": [
-						"Being a daughter of Pharika comes with some benefits. Being raised by the Devout communities, you had plenty of oppurtunities to learn new languages from your more traveled sisters. You already know Hisszarian and Common and can pick two additional languages your character would know."
+                        "You can speak, read, and write Common and Drudaeic the language of the plants",
+					]
+                },
+                {
+					"type": "entries",
+					"name": "Resistance",
+					"entries": [
+                        "You are resistant to radiant damage.",
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Subraces",
 					"entries": [
-						"Essirus (Earth tones), Iridion (iridescent), Arveniom (many colors), Vunaicon (Metallic), "
+						"Fire tree, Olive tree, Lotus Tree, poppy flower, Acanthus flower. "
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Hynotic Gaze",
+					"name": "Fear the flame",
 					"entries": [
-						"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
+						"Due to you being a plant and all, you are extremely aware of fire and tend to keep your distance, especially around community campfires with all their flying embers. No one can forget what happened to Vermillia the one time she got to close, Yikes! You don't fear fire though, you just respectfully give it the space it deserves."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Pharika's Children",
+					"name": "Forests Ichor",
 					"entries": [
-						"You are a child of Pharika, and do not know who you father is. It's become apparent however that all the clutches have different colors and abilities. It is likely Pharika has had many different partners. Your specie type chooses your scale color and damage type. The Essirius have scales in earthy colors such as whites, creams, tans, browns, and blacks and come in either one color or multiple earthtones creating intricate patterns. This species is most known for it's strength and constitution making them great warriors. The Iridion species is always one color but it has an irridescent rainbow shine over the scales. This species is noted for it's wisdom and charisma but it's also feared due to it's necrotic damage type. Arveniom is the most colorful species with scales, ranging from average colors to neon. This species also has a variety of patterns from solid color to elbaroate diamonds. They are remembered especially by underground organizations because of their intelligence and Dexterity, making them good candidates for heists or unsavory jobs. The Vunaicon species often has metallic scales, they are more commonly just one color, but when they do have patterns their stripes, diamonds, and spots may come in white brown or some other non mettallic color while the bulk of their scales are in a mettalic shade."
+						"Dyrads were created from the divine desires of Nylea Goddess of the hunt to be able to speak to the trees, glean their wisdom, and aide them in protection against the ever expanding empires. Just like how if mortals wish enough for the gods to make something come about, the gods can bring their own desires to fruition with enough work in their mystical arts. She reached her hand over the borders of the mortal plane and into the void of Nyx and plucked her dream from the skies casting it into the mortal plane. However their ability to walk was granted to them by Xenagos the planeswalker satyr who accomplished becoming a god. He gifted unto them the ability to either carry a seed which would hold their soul, or to carry a piece of their tethered sprout, (reffered to as their Kardia) leaving them free to walk the world no longer trapped by their limitations. Dryads come in a variety of colors and shapes related to the species of their Kardia, and are able to appear in the form they most identify with. The most common Dryad species are the Fir tree, Olive Tree, Lotus flower, poppy flower, and Acanthus mollis flower.",
 					]
-				}
+                },
+                {
+					"type": "entries",
+					"name": "One sided trust",
+					"entries": [
+						"People strongly trust Dryads because of their sweet and playful nature, but rarely do Dryads truly trust most other creatures. Many of their race tend to believe all beings have some kind of agenda. A common agenda is that people ask Dryads to help them grow their crops or plants only to cut down those plants at the end of the season. “It’s murder I tell ya!”.  Or they may believe that other mortals are just like the gods, fickle, and that they are only there for you until they’ve gotten what they have needed. However, even though Dryad’s don’t trust most other people they don’t let that mistrust breed resentment or anger because most of these people won’t live that much longer in comparison to the long life of a dryad anyways. And some Dryad’s have come to peace with this cultural view and let it lay to rest as their ventures outside of their grottos, meadows, and forests have put them in situations to prove otherwise that people are genuinely trustworthy",
+					]
+                },
+                {
+                    "type": "entries",
+                    "name": "History of the Dryads",
+                    "entries": [
+                        ""
+                    ]
+                }
 
 			],
 			"subraces": [
 				{
-					"name": "Fir treet",
+					"name": "Fir tree",
 					"source": "",
 					"overwrite": {
 						"languageProficiencies": true,
