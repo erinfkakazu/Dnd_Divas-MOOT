@@ -33,93 +33,7 @@
 			"traitTags": [
 				"uncommon race"
 			],
-			"fluff": {
-				"entries": [
-					{
-						"type": "entries",
-						"name": "History of the Gorgons",
-						"entries": [
-							"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother. Gorgon Children Gorgons have male and female among their them but all females are rendererd sterile by Pharika. While some of Pharika's gorgon children look to her coldness as a test of their love and resilience, outcasted and defectors feel that they were simple creations she made with no  attachment to be used and discarded much like tools or playthings. The Gorgon's that leave the Devout communities tend to be loners simply because of their appearance and infamous reputation as unfeeling, dark, and deadly creatures petrifying everyone in sight. Even though many people would be right that they are deadly, and can petrify people they are hardly unfeeling. They are simply, more dangerous because of how much they feel. Many outcasted are angry and hurt by the abandonment of their mother Pharika and sister and brother gorgons. Many Gorgon children ponder as to who their fathers are as Pharika has had multiple partners through the eons. Medusae who are devout often serve as doctors, herbalists, advisors, assassins, and poisoners. Medusae who are defected or outcasted may be more inclined to choose a different class as a way of rebelling further against Pharika. A good example is becoming a paladin Oath of glory (Demigod) and choose to serve a different and often opposing god (Like Kruphix or Keranos). The Devout Communities, Outcasted, and Defectors. There are a total of of 30 devout communities with 25 to 50 medusae in each community. Many Medusae Look very varied from each other and come in many colors from black, brown, tan, monochrome, rainbow and anywhere in between. Many Children of Medusae believe this is partially possible if their mother Pharika had different mates from time to time. The only thing that all Medusae children seem to have in common is their tendrils of snakes they lovingly refer to as their diadems. Medusae are extremely proud of their snakes and painstakingly take care of them making sure their spines do not break as they are very fragile.  All medusae have hard scaled bodies and tend to range in weight from 150 lbs to 300 lbs. Even when small, Medusae tend to be strong and lithe. The commonly make Good Fighters and paladins as a result of their strength but not all follow the path of most resistance and are very versatile in their profession (Class) choices. The devout children often have ranking in their communities. The strongest are normally picked by Pharika to be the community leaders. Leaders keep the community in check and make sure that any orders from Pharika are followed whether it is poison experiments or helping Pharika to thwart Kruphix's Oracles. In these communities there is strict guidelines to follow the teachings and beliefs of their Mother Pharika. If the guidelines are not fully followed then in the harshest punishment of deviation a Medusae's Diadem be cut off or the rendering him or her unable to use their bane (Poison) any longer. At which point they are then outcasted from the group left in a barren wasteland to fend for themselves. Devout occasionally leave the Devout communities when ordained to do so for special missions given by Pharika. The defectors are more commonly Medusae who have escaped the tight grip of their communities and have chosen to venture forth into the world in search of a new life. Once a defector has left they cannot come back to the community or they risk losing their diadems. In these cases defectors tend to often conceal their Diadems and identities from many of the people they meet as an assurance of their own safety, it's not uncommon for them to disguise themselves as creatures that also bare scales on their skin like Dragonborn, Kobolds, or tritons if they are trying to blend in a city. Medusae names Gorgons take on the first four letters of the God they serve as their last name. For example if you follow Pharika then your last name would be Phar, or if you follow Iroas then your last name would be Iroa. If they server no god then they take on the last name that symbolizes their beliefs, or holds special meaning. Female Gorgon Name examples: (Nostra, Sthasos, Mira, Hunura, Hosta, Zovaste, Konica, Phaktule, Kestia, Virsodya, Phasta, Hyzadara, Hellete, Zeso, Zalidaria, Zaxea, etc.) Male Gorgon Name examples:( Phusdetus, Phalagos, Nevantos, Zandris, Dumarus, Stheusos, Thazo, Thulotos, Vyrion, Hadotus, Kandrotese, Chronor, Virerus, Hednys, Kenanos, etc.)"
-						]
-					}
-				],
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "www.example.com/image.png"
-						}
-					}
-				]
-			},
 			"darkvision": 30,
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Ability Scor Increase",
-					"entries": [
-						"Your Dexterity score increases by 2, and your constitution score increases by 1."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Age",
-					"entries": [
-						"Hatchling Medusae grow quickly. They crawl hours after hatching  and start walking days after birth. They grow to to be about the same size as a human young adult of 13 by the age of 5, and reach adulthood by 16 once they reach 16 they continue growing at a very slow rate. They are considered middle aged at about 110 to 165 and live to be around 220."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Alignment",
-					"entries": [
-						"Medusae follow strong beliefs, their background allows them to be either good, evil, or somewhere in between and can really differ from Medusae to Medusae depending on their upbringing within the devout communities and treatment from the Mother Creator Pharika. In cases of extreme rejection of Pharika Medusae may choose to become champions for Keranos the god of Wisdom or Kruphix the god of mysteries. In the Gray areas Medusae may side themselves with any other god or no god. And in cases of extreme devotion they commonly become Champions and servants to Pharika herself or to the Goddess Nylea."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Medusae are only a little taller and heavier than humans but smaller and shorter then dragonborn. They stand at about 6 to 7 feet tall and average about 195 pounds. Your size is Medium."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "speed",
-					"entries": [
-						"Your base walking speed is 30 feet"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Languages",
-					"entries": [
-						"Being a daughter of Pharika comes with some benefits. Being raised by the Devout communities, you had plenty of oppurtunities to learn new languages from your more traveled sisters. You already know Hisszarian and Common and can pick two additional languages your character would know."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Subraces",
-					"entries": [
-						"Essirus (Earth tones), Iridion (iridescent), Arveniom (many colors), Vunaicon (Metallic), "
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Hynotic Gaze",
-					"entries": [
-						"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Pharika's Children",
-					"entries": [
-						"You are a child of Pharika, and do not know who you father is. It's become apparent however that all the clutches have different colors and abilities. It is likely Pharika has had many different partners. Your specie type chooses your scale color and damage type. The Essirius have scales in earthy colors such as whites, creams, tans, browns, and blacks and come in either one color or multiple earthtones creating intricate patterns. This species is most known for it's strength and constitution making them great warriors. The Iridion species is always one color but it has an irridescent rainbow shine over the scales. This species is noted for it's wisdom and charisma but it's also feared due to it's necrotic damage type. Arveniom is the most colorful species with scales, ranging from average colors to neon. This species also has a variety of patterns from solid color to elbaroate diamonds. They are remembered especially by underground organizations because of their intelligence and Dexterity, making them good candidates for heists or unsavory jobs. The Vunaicon species often has metallic scales, they are more commonly just one color, but when they do have patterns their stripes, diamonds, and spots may come in white brown or some other non mettallic color while the bulk of their scales are in a mettalic shade."
-					]
-				}
-
-			],
 			"subraces": [
 				{
 					"name": "Essirius",
@@ -136,7 +50,7 @@
 							"type": "entries",
 							"name": "Essirius Gorgons",
 							"entries": [
-								"Essirius Gorgons have earthtone colored scales and share many similar characteristics to snakes and serpents such as the boa constrictor or the black mamba. Thier scales are strong and thick and provide resistance to many physical types of damage. Their race is most characterized by their Whip like tail and their ability to constrict victims with their strong broad arms. They are regarded as the strong, as the warriors and serve best as fighters, barbarians, body gaurds and so forth. However they can easily take up other professions and often do so."
+								"Essirius Gorgons have earthtone colored scales and share many similar characteristics to snakes and serpents such as the boa constrictor or the black mamba. Thier scales are strong and thick and provide resistance to many physical types of damage. Their race is most characterized by their Whip like tail they lash out a threats. They are regarded as the strong, as the warriors and serve best as fighters, barbarians, paladins and so forth. However they can easily take up other professions and often do so."
 							]
 						},
 						{
@@ -178,7 +92,7 @@
 							"type": "entries",
 							"name": "Ability score increase",
 							"entires": [
-								"Your strength score is increased by 2, and your constitution is increased by 1."
+								"Your strength score is increased by 2, and your Dexterity is increased by 1."
 							]
 						},
 						{
@@ -220,7 +134,7 @@
 							"type": "entries",
 							"name": "Constrict",
 							"entires": [
-								"Essirius Gorgons have the ability to use grab their enemies in a strong vice like grip, squeezing their victims and crushing their ribs. 1dblank bludgeoning damage. (Strength save)."
+								"All Gorgons have the ability to use grab their enemies in a strong vice like grip, squeezing their victims and crushing their ribs. 1dblank bludgeoning damage. (Strength save)."
 							]
 						}
 					]
@@ -228,32 +142,210 @@
 				{
 					"name": "Vunaicon",
 					"source": "",
-					"overwrite": {
-						"languageProficiencies": true,
-						"immune": [
-							"poison"
-						],
-						"darkvision": 60,
-						"ability": [
-							{
-								"Dex": 1,
-								"int": 1
-							},
-							{
-								"note": "Best classes: rogue",
-								"note2": "Okay classes: ranger, wizard, Monk, Druid, Bard, Arteficer",
-								"type": "entries",
-								"name": "Venom Strike",
-								"entries": [
-									"You have the ability to lash out venom in a stream of terror. attacks in a line up to 30 ft. (Con save)"
-								]
-							}
-						]
-					}
+					"entries":[
+						{
+							"type": "entries",
+							"name": "Gorgon",
+							"entries": [
+								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Vunaicon Gorgons",
+							"entries": [
+								"Vunaicon have metallic colored scales. When they have patterns they may have a dual tone where they have black, white, brown, or other color patterning. But the majority of their scales will still be metallic. They are quick and skilled climbers much like their serpent relation the Conception Bank Silver Boa. They are regarded as the smartest of the Gorgon children. They often take up proffessions such as the Druid, ranger, monk paladin, or wizard. However they can easily take up other professions and often do so."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon children",
+							"entries": [
+								"Gorgons have male and female among their kind, but all females are rendererd sterile by Pharika. While Devout Gorgon children of Pharika look to her coldness as a test of their love and resilience, outcasted and defected Gorgon children feel that they were simple creations she made with no  attachment, to be used and discarded much like tools or playthings. The Gorgon's that leave the Devout communities tend to be on their own because there are not many gorgons and their appearence doesn't really invite people to be their freinds. All Medusae are gifted with different traits and take on a variety of proffessions from doctors to warriors and wizards. Many Medusae Look very varied from each other and come in many colors from black, brown, tan, monochrome, rainbow and anywhere in between. Many Children of Medusae believe this is partially possible if their mother Pharika had different mates from time to time. The only thing that all Medusae children seem to have in common is their tendrils of snakes they lovingly refer to as their diadems. Medusae are extremely proud of their snakes and painstakingly take care of them making sure their spines do not break as they are very fragile. This being said many Medusae have different abilities and work well in a variety of classes depending on their subrace."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Devout communities",
+							"entries":[
+								"The Devout communites are a cluster of 20 small Gorgon villages consisting of around 100 members each give or take. They are called the Devout communities because the communities mostly comprise of Gorgons who hold the belief that they can prove their worthiness and devotion to Pharika, and in return recieve her good graces and affection. Devout Gorgon Children of Pharika often make a pilgramage reffered to by their kind as the Chemistry Crusade. It is a journey they take to look for information about the domains of the gods and different ingredients of those domains to create tests and theories their mother Pharika can use for her experiments.The devout children often have ranking in their communities. The strongest are normally picked by Pharika to be the community leaders. Leaders keep the community in check and make sure that any orders from Pharika are followed whether it is poison experiments or helping Pharika to thwart Kruphix's Oracles. In these communities there is strict guidelines to follow the teachings and beliefs of their Mother Pharika. If the guidelines are not fully followed, the harshest punishment of deviation is cutting a Gorgons Diadem (Snakes) off branding them as outcasted. Many of Pharika's Devout children either serve Pharika, or may choose to serve Nylea goddess of the hunt who Pharika adores."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Outcasted and Defected",
+							"entries":[
+								"Many outcasted are angry and hurt by the abandonment of their mother Pharika and sister and brother gorgons. Gorgons who become branded as outcasted become so for one of the following reasons (Or something in this vein.). One; Outright defiance towards pharika and her ideals. Tow; Destroying alchemical, medical, phtathalogical, or similar research. Three; Performing a notable act of healing withut exacting a significant price. Four; Slaying a Devout Gorgon or Serpent. Once branded an Outcasted they cannot come back, if they try, they risk execution. The defectors are Gorgons who have either escaped before punishment, or who have chosen to venture forth into the world in search of a life more suited to them then that of the Devout communities. Once a defector has left they cannot come back to the community or they risk losing their diadems. In these cases defectors tend to often conceal their Diadems and identities from many of the people they meet as an assurance of their own safety, it's not uncommon for them to disguise themselves as creatures that also bare scales on their skin like Dragonborn, Kobolds, or tritons if they are trying to blend in a city. Devout and Outcasted Gorgons may sometimes choose to reject the gods outright as a result of understanding how little the gods care if what you are or do does not benefit them. They may also choose to serve a god that opposes Pharika in vengeful defiance. Or they may choose they do not want to live the life of a Devout Gorgon, but still want to pay tribute to pharika and may choose to follow Nylea who Pharika cherishes. Opposing gods of Pharika are Keranos and Kruphix"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon names",
+							"entries":[
+								"Medusae names Gorgons take on the first four letters of the God they serve as their last name. For example if you follow Pharika then your last name would be Phar, or if you follow Iroas then your last name would be Iroa. If they server no god then they take on the last name that symbolizes their beliefs, or holds special meaning. Female Gorgon Name examples: (Nostra, Sthasos, Mira, Hunura, Hosta, Zovaste, Konica, Phaktule, Kestia, Virsodya, Phasta, Hyzadara, Hellete, Zeso, Zalidaria, Zaxea, etc.) Male Gorgon Name examples:( Phusdetus, Phalagos, Nevantos, Zandris, Dumarus, Stheusos, Thazo, Thulotos, Vyrion, Hadotus, Kandrotese, Chronor, Virerus, Hednys, Kenanos, etc.)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon Traits",
+							"entries": [
+								"Your sisters and brothers share many of the same traits and yet not all of you are exactly the same."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Ability score increase",
+							"entires": [
+								"Your Wisdom score is increased by 2, and your intelligence is increased by 1."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dark Vision",
+							"entires": [
+								"You can see up to 60 ft."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "immune",
+							"entires": [
+								"You are immune to poison damage."
+							]
+						},					
+						{
+							"type": "entries",
+							"name": "Hypnotic Gaze",
+							"entries": [
+								"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Petrifying Gaze",
+							"entires": [
+								"When a Medusae is within 30 feet of a creature they can use Petrifying gaze to force an enemy to make a DC 9 Constitution saving throw if the Medusae isn't incapacitated and can see the creature. Meaning she is not blinded or there is no cloud smoke etc.This ability is only available once the character has reached level 6. Before they are level six they are able to use a less powerful version of this trait called Hypnotic gaze."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Acid Belch",
+							"entires": [
+								"You have the ability to gurgle up a cone of acid. attacks in a line up to 30 ft. (Con save)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Constrict",
+							"entires": [
+								"All Gorgons have the ability to use grab their enemies in a strong vice like grip, squeezing their victims and crushing their ribs. 1dblank bludgeoning damage. (Strength save)."
+							]
+						}
+					]
 				},
 				{
 					"name": "Veneriom",
 					"source": "",
+					"entries":[
+						{
+							"type": "entries",
+							"name": "Gorgon",
+							"entries": [
+								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Veneriom Gorgons",
+							"entries": [
+								"Venerium have brightly colored scales and many patterns. When they have patterns they may have a dual tone where they have black, white, brown, or other color patterning. They are small and lithe members of the Gorgon family. Often noted for their deadly venom and quick reflexes. They often take on jobs involving stealth and finesse such as the ranger, rogue, or monk. However they can easily take up other professions and often do so."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon children",
+							"entries": [
+								"Gorgons have male and female among their kind, but all females are rendererd sterile by Pharika. While Devout Gorgon children of Pharika look to her coldness as a test of their love and resilience, outcasted and defected Gorgon children feel that they were simple creations she made with no  attachment, to be used and discarded much like tools or playthings. The Gorgon's that leave the Devout communities tend to be on their own because there are not many gorgons and their appearence doesn't really invite people to be their freinds. All Medusae are gifted with different traits and take on a variety of proffessions from doctors to warriors and wizards. Many Medusae Look very varied from each other and come in many colors from black, brown, tan, monochrome, rainbow and anywhere in between. Many Children of Medusae believe this is partially possible if their mother Pharika had different mates from time to time. The only thing that all Medusae children seem to have in common is their tendrils of snakes they lovingly refer to as their diadems. Medusae are extremely proud of their snakes and painstakingly take care of them making sure their spines do not break as they are very fragile. This being said many Medusae have different abilities and work well in a variety of classes depending on their subrace."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Devout communities",
+							"entries":[
+								"The Devout communites are a cluster of 20 small Gorgon villages consisting of around 100 members each give or take. They are called the Devout communities because the communities mostly comprise of Gorgons who hold the belief that they can prove their worthiness and devotion to Pharika, and in return recieve her good graces and affection. Devout Gorgon Children of Pharika often make a pilgramage reffered to by their kind as the Chemistry Crusade. It is a journey they take to look for information about the domains of the gods and different ingredients of those domains to create tests and theories their mother Pharika can use for her experiments.The devout children often have ranking in their communities. The strongest are normally picked by Pharika to be the community leaders. Leaders keep the community in check and make sure that any orders from Pharika are followed whether it is poison experiments or helping Pharika to thwart Kruphix's Oracles. In these communities there is strict guidelines to follow the teachings and beliefs of their Mother Pharika. If the guidelines are not fully followed, the harshest punishment of deviation is cutting a Gorgons Diadem (Snakes) off branding them as outcasted. Many of Pharika's Devout children either serve Pharika, or may choose to serve Nylea goddess of the hunt who Pharika adores."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Outcasted and Defected",
+							"entries":[
+								"Many outcasted are angry and hurt by the abandonment of their mother Pharika and sister and brother gorgons. Gorgons who become branded as outcasted become so for one of the following reasons (Or something in this vein.). One; Outright defiance towards pharika and her ideals. Tow; Destroying alchemical, medical, phtathalogical, or similar research. Three; Performing a notable act of healing withut exacting a significant price. Four; Slaying a Devout Gorgon or Serpent. Once branded an Outcasted they cannot come back, if they try, they risk execution. The defectors are Gorgons who have either escaped before punishment, or who have chosen to venture forth into the world in search of a life more suited to them then that of the Devout communities. Once a defector has left they cannot come back to the community or they risk losing their diadems. In these cases defectors tend to often conceal their Diadems and identities from many of the people they meet as an assurance of their own safety, it's not uncommon for them to disguise themselves as creatures that also bare scales on their skin like Dragonborn, Kobolds, or tritons if they are trying to blend in a city. Devout and Outcasted Gorgons may sometimes choose to reject the gods outright as a result of understanding how little the gods care if what you are or do does not benefit them. They may also choose to serve a god that opposes Pharika in vengeful defiance. Or they may choose they do not want to live the life of a Devout Gorgon, but still want to pay tribute to pharika and may choose to follow Nylea who Pharika cherishes. Opposing gods of Pharika are Keranos and Kruphix"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon names",
+							"entries":[
+								"Medusae names Gorgons take on the first four letters of the God they serve as their last name. For example if you follow Pharika then your last name would be Phar, or if you follow Iroas then your last name would be Iroa. If they server no god then they take on the last name that symbolizes their beliefs, or holds special meaning. Female Gorgon Name examples: (Nostra, Sthasos, Mira, Hunura, Hosta, Zovaste, Konica, Phaktule, Kestia, Virsodya, Phasta, Hyzadara, Hellete, Zeso, Zalidaria, Zaxea, etc.) Male Gorgon Name examples:( Phusdetus, Phalagos, Nevantos, Zandris, Dumarus, Stheusos, Thazo, Thulotos, Vyrion, Hadotus, Kandrotese, Chronor, Virerus, Hednys, Kenanos, etc.)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon Traits",
+							"entries": [
+								"Your sisters and brothers share many of the same traits and yet not all of you are exactly the same."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Ability score increase",
+							"entires": [
+								"Your Dexterity score is increased by 2, and your wisdom is increased by 1."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dark Vision",
+							"entires": [
+								"You can see up to 60 ft."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "immune",
+							"entires": [
+								"You are immune to poison damage."
+							]
+						},					
+						{
+							"type": "entries",
+							"name": "Hypnotic Gaze",
+							"entries": [
+								"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Petrifying Gaze",
+							"entires": [
+								"When a Medusae is within 30 feet of a creature they can use Petrifying gaze to force an enemy to make a DC 9 Constitution saving throw if the Medusae isn't incapacitated and can see the creature. Meaning she is not blinded or there is no cloud smoke etc.This ability is only available once the character has reached level 6. Before they are level six they are able to use a less powerful version of this trait called Hypnotic gaze."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Venom Strike",
+							"entires": [
+								"You have the ability to lash out venom in a stream of terror. poison damage. attacks in a line up to 30 ft. (Con save)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Constrict",
+							"entires": [
+								"All Gorgons have the ability to use grab their enemies in a strong vice like grip, squeezing their victims and crushing their ribs. 1dblank bludgeoning damage. (Strength save)."
+							]
+						}
+					],
 					"overwrite": {
 						"languageProficiencies": true,
 						"resist": [
@@ -280,6 +372,106 @@
                 {
 					"name": "Iridion",
 					"source": "",
+					"entries":[
+						{
+							"type": "entries",
+							"name": "Gorgon",
+							"entries": [
+								"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Iridion Gorgons",
+							"entries": [
+								"Iridion Gorgons have solid single colored scales, but have a iridescent sheen to them reflecting the rainbow. metallic colored scales. They are most known for their abilities to breathe necrotic air. They are regarded as gifted with in the magical arts and work best as Paladins, Sorcerers, and warlocks, and bards. However they can easily take up other professions and often do so."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon children",
+							"entries": [
+								"Gorgons have male and female among their kind, but all females are rendererd sterile by Pharika. While Devout Gorgon children of Pharika look to her coldness as a test of their love and resilience, outcasted and defected Gorgon children feel that they were simple creations she made with no  attachment, to be used and discarded much like tools or playthings. The Gorgon's that leave the Devout communities tend to be on their own because there are not many gorgons and their appearence doesn't really invite people to be their freinds. All Medusae are gifted with different traits and take on a variety of proffessions from doctors to warriors and wizards. Many Medusae Look very varied from each other and come in many colors from black, brown, tan, monochrome, rainbow and anywhere in between. Many Children of Medusae believe this is partially possible if their mother Pharika had different mates from time to time. The only thing that all Medusae children seem to have in common is their tendrils of snakes they lovingly refer to as their diadems. Medusae are extremely proud of their snakes and painstakingly take care of them making sure their spines do not break as they are very fragile. This being said many Medusae have different abilities and work well in a variety of classes depending on their subrace."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Devout communities",
+							"entries":[
+								"The Devout communites are a cluster of 20 small Gorgon villages consisting of around 100 members each give or take. They are called the Devout communities because the communities mostly comprise of Gorgons who hold the belief that they can prove their worthiness and devotion to Pharika, and in return recieve her good graces and affection. Devout Gorgon Children of Pharika often make a pilgramage reffered to by their kind as the Chemistry Crusade. It is a journey they take to look for information about the domains of the gods and different ingredients of those domains to create tests and theories their mother Pharika can use for her experiments.The devout children often have ranking in their communities. The strongest are normally picked by Pharika to be the community leaders. Leaders keep the community in check and make sure that any orders from Pharika are followed whether it is poison experiments or helping Pharika to thwart Kruphix's Oracles. In these communities there is strict guidelines to follow the teachings and beliefs of their Mother Pharika. If the guidelines are not fully followed, the harshest punishment of deviation is cutting a Gorgons Diadem (Snakes) off branding them as outcasted. Many of Pharika's Devout children either serve Pharika, or may choose to serve Nylea goddess of the hunt who Pharika adores."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Outcasted and Defected",
+							"entries":[
+								"Many outcasted are angry and hurt by the abandonment of their mother Pharika and sister and brother gorgons. Gorgons who become branded as outcasted become so for one of the following reasons (Or something in this vein.). One; Outright defiance towards pharika and her ideals. Tow; Destroying alchemical, medical, phtathalogical, or similar research. Three; Performing a notable act of healing withut exacting a significant price. Four; Slaying a Devout Gorgon or Serpent. Once branded an Outcasted they cannot come back, if they try, they risk execution. The defectors are Gorgons who have either escaped before punishment, or who have chosen to venture forth into the world in search of a life more suited to them then that of the Devout communities. Once a defector has left they cannot come back to the community or they risk losing their diadems. In these cases defectors tend to often conceal their Diadems and identities from many of the people they meet as an assurance of their own safety, it's not uncommon for them to disguise themselves as creatures that also bare scales on their skin like Dragonborn, Kobolds, or tritons if they are trying to blend in a city. Devout and Outcasted Gorgons may sometimes choose to reject the gods outright as a result of understanding how little the gods care if what you are or do does not benefit them. They may also choose to serve a god that opposes Pharika in vengeful defiance. Or they may choose they do not want to live the life of a Devout Gorgon, but still want to pay tribute to pharika and may choose to follow Nylea who Pharika cherishes. Opposing gods of Pharika are Keranos and Kruphix"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon names",
+							"entries":[
+								"Medusae names Gorgons take on the first four letters of the God they serve as their last name. For example if you follow Pharika then your last name would be Phar, or if you follow Iroas then your last name would be Iroa. If they server no god then they take on the last name that symbolizes their beliefs, or holds special meaning. Female Gorgon Name examples: (Nostra, Sthasos, Mira, Hunura, Hosta, Zovaste, Konica, Phaktule, Kestia, Virsodya, Phasta, Hyzadara, Hellete, Zeso, Zalidaria, Zaxea, etc.) Male Gorgon Name examples:( Phusdetus, Phalagos, Nevantos, Zandris, Dumarus, Stheusos, Thazo, Thulotos, Vyrion, Hadotus, Kandrotese, Chronor, Virerus, Hednys, Kenanos, etc.)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gorgon Traits",
+							"entries": [
+								"Your sisters and brothers share many of the same traits and yet not all of you are exactly the same."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Ability score increase",
+							"entires": [
+								"Your Dexterity score is increased by 2, and your wisdom is increased by 1."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dark Vision",
+							"entires": [
+								"You can see up to 60 ft."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "immune",
+							"entires": [
+								"You are immune to poison damage."
+							]
+						},					
+						{
+							"type": "entries",
+							"name": "Hypnotic Gaze",
+							"entries": [
+								"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Petrifying Gaze",
+							"entires": [
+								"When a Medusae is within 30 feet of a creature they can use Petrifying gaze to force an enemy to make a DC 9 Constitution saving throw if the Medusae isn't incapacitated and can see the creature. Meaning she is not blinded or there is no cloud smoke etc.This ability is only available once the character has reached level 6. Before they are level six they are able to use a less powerful version of this trait called Hypnotic gaze."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Withering Breathe",
+							"entires": [
+								"You have the puff and blow a necrotic mists. Attacks in a cone 5 by 30 ft. (Con save)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Constrict",
+							"entires": [
+								"All Gorgons have the ability to use grab their enemies in a strong vice like grip, squeezing their victims and crushing their ribs. 1dblank bludgeoning damage. (Strength save)."
+							]
+						}
+					]
 					"overwrite": {
 						"languageProficiencies": true,
 						"resist": [
@@ -288,8 +480,8 @@
 						"darkvision": 30,
 						"ability": [
 							{
-								"str": 1,
-								"dex": 1
+								"cha": 2,
+								"wis": 1
 							},
 							{
 								"note": "Best classes: Ranger, Monk, Rogue.",
