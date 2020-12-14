@@ -124,7 +124,45 @@
 				{
 					"name": "Essirius",
 					"source": "",
+					"fluff": {
+						"entries": [
+							{
+								"type": "entries",
+								"name": "History of the Gorgons",
+								"entries": [ ""
+								]
+							}
+						],
+						"images": [
+							{
+								"type": "image",
+								"href": {
+									"type": "external",
+									"url": "https://www.flickr.com/photos/vabbley/4659473724/"
+								}
+							}
+						]
+					},
 					"overwrite": {
+						"languageProficiencies": true,
+						"darkvision": 20,
+						"resist": [
+							"slashing","piercing"
+						],
+						"ability": [
+							{
+								"str": 2,
+								"con": 1
+							},
+							{
+								"type": "entries",
+								"name": "Tail whip",
+								"entries": [
+									"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
+								]
+							}
+							
+						],
 						"entries": [
 							{
 								"type": "entries",
@@ -133,27 +171,6 @@
 									"Your strength score increases by 2, and your constitution score increases by 1."
 								]
 							}
-						],
-						"languageProficiencies": true,
-						"resist": [
-							"slashing","piercing"
-						],
-						"darkvision": 20,
-						"ability": [
-							{
-								"str": 2,
-								"con": 1
-							},
-							{
-								"note": "Best classes: Barbarian, Fighter, Monk",
-								"note2": "Okay classes: Ranger, Sorcerer, Artificer",
-								"type": "entries",
-								"name": "Tail whip",
-								"entries": [
-									"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
-								]
-							}
-							
 						]
 					}
 				},
@@ -161,32 +178,30 @@
 					"name": "Iridion",
 					"source": "",
 					"overwrite": {
-						"entries": [
-							{
-								"type": "entries",
-								"name": "Ability Score Increase",
-								"entries": [
-									"Your wisdom score increases by 2, and your charisma score increases by 1."
-								]
-							}
-						],
 						"languageProficiencies": true,
+						"darkvision": 60,
 						"immune": [
 							"necrotic"
 						],
-						"darkvision": 60,
 						"ability": [
 							{
 								"wis": 2,
 								"cha": 1
 							},
 							{
-								"note": "Best classes: Cleric, Paladin, Warlock",
-								"note2": "Okay classes: Bard, Druid, Sorcerer, Wizard",
 								"type": "entries",
 								"name": "Bane Spray",
 								"entries": [
 									"You have the ability to puff or blow a 5 by 30 ft. cone of Necrotic mist (Dex save)"
+								]
+							}
+						],
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Ability Score Increase",
+								"entries": [
+									"Your wisdom score increases by 2, and your charisma score increases by 1."
 								]
 							}
 						]
@@ -216,8 +231,6 @@
 								"int": 1
 							},
 							{
-								"note": "Best classes: rogue",
-								"note2": "Okay classes: ranger, wizard, Monk, Druid, Bard, Arteficer",
 								"type": "entries",
 								"name": "Venom Strike",
 								"entries": [
@@ -251,8 +264,6 @@
 								"dex": 1
 							},
 							{
-								"note": "Best classes: Ranger, Monk, Rogue.",
-								"note2": "Okay classes: Barbarian, Bard, Fighter ",
 								"type": "entries",
 								"name": "Acid Surge",
 								"entries": [
