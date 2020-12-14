@@ -57,7 +57,7 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Ability Scor Increase",
+					"name": "Ability Score Increase",
 					"entries": [
 						"Your Dexterity score increases by 2, and your constitution score increases by 1."
 					]
@@ -125,6 +125,15 @@
 					"name": "Essirius",
 					"source": "",
 					"overwrite": {
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Ability Score Increase",
+								"entries": [
+									"Your strength score increases by 2, and your constitution score increases by 1."
+								]
+							}
+						],
 						"languageProficiencies": true,
 						"resist": [
 							"slashing","piercing"
@@ -132,7 +141,7 @@
 						"darkvision": 20,
 						"ability": [
 							{
-								"str": 1,
+								"str": 2,
 								"con": 1
 							},
 							{
@@ -152,6 +161,15 @@
 					"name": "Iridion",
 					"source": "",
 					"overwrite": {
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Ability Score Increase",
+								"entries": [
+									"Your wisdom score increases by 2, and your charisma score increases by 1."
+								]
+							}
+						],
 						"languageProficiencies": true,
 						"immune": [
 							"necrotic"
@@ -159,7 +177,7 @@
 						"darkvision": 60,
 						"ability": [
 							{
-								"wis": 1,
+								"wis": 2,
 								"cha": 1
 							},
 							{
@@ -178,6 +196,15 @@
 					"name": "Arveniom",
 					"source": "",
 					"overwrite": {
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Ability Score Increase",
+								"entries": [
+									"Your Dexterity score increases by 2, and your intelligence score increases by 1."
+								]
+							}
+						],
 						"languageProficiencies": true,
 						"immune": [
 							"poison"
@@ -185,7 +212,7 @@
 						"darkvision": 60,
 						"ability": [
 							{
-								"Dex": 1,
+								"Dex": 2,
 								"int": 1
 							},
 							{
@@ -204,6 +231,15 @@
 					"name": "Vunaicon",
 					"source": "",
 					"overwrite": {
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Ability Score Increase",
+								"entries": [
+									"Your strength score increases by 2, and your dexterity score increases by 1."
+								]
+							}
+						],
 						"languageProficiencies": true,
 						"resist": [
 							"acid"
