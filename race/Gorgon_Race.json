@@ -130,6 +130,15 @@
 
 						}
 					],
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Ability Score Increase",
+							"entries": [
+								"Your strength score increases by 1, and your constitution score increases by 1."
+							]
+						}
+					],
 					"overwrite": {
 						"entries": [
 							{
