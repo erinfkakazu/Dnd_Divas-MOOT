@@ -472,28 +472,6 @@
 							]
 						}
 					]
-					"overwrite": {
-						"languageProficiencies": true,
-						"resist": [
-							"acid"
-						],
-						"darkvision": 30,
-						"ability": [
-							{
-								"cha": 2,
-								"wis": 1
-							},
-							{
-								"note": "Best classes: Ranger, Monk, Rogue.",
-								"note2": "Okay classes: Barbarian, Bard, Fighter ",
-								"type": "entries",
-								"name": "Acid Surge",
-								"entries": [
-									"You are able to gurgle out a fountain of acid in a cone 5 by 30 ft. line (Dex save)"
-								]
-							}
-						]
-					}
 				}
 			]
 		}
