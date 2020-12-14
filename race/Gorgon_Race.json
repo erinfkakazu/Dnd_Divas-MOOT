@@ -223,27 +223,7 @@
 								"Essirius Gorgons have the ability to use grab their enemies in a strong vice like grip, squeezing their victims and crushing their ribs. 1dblank bludgeoning damage. (Strength save)."
 							]
 						}
-					],
-						"languageProficiencies": true,
-						"immune": [
-							"necrotic"
-						],
-						"darkvision": 60,
-						"ability": [
-							{
-								"wis": 1,
-								"cha": 1
-							},
-							{
-								"note": "Best classes: Cleric, Paladin, Warlock",
-								"note2": "Okay classes: Bard, Druid, Sorcerer, Wizard",
-								"type": "entries",
-								"name": "Bane Spray",
-								"entries": [
-									"You have the ability to puff or blow a 5 by 30 ft. cone of Necrotic mist (Dex save)"
-								]
-							}
-						]
+					]
 					},
 				{
 					"name": "Vunaicon",
