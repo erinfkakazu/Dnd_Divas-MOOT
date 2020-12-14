@@ -123,62 +123,6 @@
 				{
 					"name": "Essirius",
 					"source": "",
-<<<<<<< HEAD
-=======
-					"ability":[
-						{
-							"str": 2,
-							"con":1
-
-						}
-					],
-					"entries": [
-						{
-							"type": "entries",
-							"name": "Ability Score Increase",
-							"entries": [
-								"Your strength score increases by 1, and your constitution score increases by 1."
-							]
-						}
-					],
-					"overwrite": {
-						"entries": [
-							{
-								"type": "entries",
-								"name": "Ability Score Increase",
-								"entries": [
-									"Your strength score increases by 1, and your constitution score increases by 1."
-								]
-							}
-						],
->>>>>>> 8e8d963187a042452c3460113f7b365ac7bf881c
-						"languageProficiencies": true,
-						"resist": [
-							"slashing",
-							"piercing"
-						],
-						"darkvision": 20,
-						"ability": [
-							{
-								"str": 1,
-								"con": 1
-							},
-							
-							{
-								"note": "Best classes: Barbarian, Fighter, Monk",
-								"note2": "Okay classes: Ranger, Sorcerer, Artificer",
-								"type": "entries",
-								"name": "Tail whip",
-								"entries": [
-									"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
-								]
-							}
-						]
-					
-				},
-				{
-					"name": "Iridion",
-					"source": "",
 					"overwrite": {
 						"entries": [
 							{
@@ -210,6 +154,39 @@
 							}
 						]
 					}
+				},
+				{
+					"name": "Iridion",
+					"source": "",
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Ability Score Increase",
+								"entries": [
+									"Your wisdom score increases by 1, and your charisma score increases by 1."
+								]
+							}
+						],
+						"languageProficiencies": true,
+						"immune": [
+							"necrotic"
+						],
+						"darkvision": 60,
+						"ability": [
+							{
+								"wis": 1,
+								"cha": 1
+							},
+							{
+								"note": "Best classes: Cleric, Paladin, Warlock",
+								"note2": "Okay classes: Bard, Druid, Sorcerer, Wizard",
+								"type": "entries",
+								"name": "Bane Spray",
+								"entries": [
+									"You have the ability to puff or blow a 5 by 30 ft. cone of Necrotic mist (Dex save)"
+								]
+							}
+						]
 				},
 				{
 					"name": "Arveniom",
