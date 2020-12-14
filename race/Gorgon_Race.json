@@ -22,6 +22,10 @@
 			"name": "Gorgon",
 			"source": "Gorgon race Mythical Odysseys of Theros",
 			"page": "",
+			"darkvision": 30,
+			"resist": [
+						"slashing","piercing"
+						],
 			"ability": [
 				{
 					"dex": 1,
@@ -53,7 +57,6 @@
 					}
 				]
 			},
-			"darkvision": 30,
 			"entries": [
 				{
 					"type": "entries",
@@ -124,18 +127,6 @@
 				{
 					"name": "Essirius",
 					"source": "",
-					"overwrite": {
-						"languageProficiencies": true,
-						"darkvision": 20,
-						"resist": [
-							"slashing","piercing"
-						],
-						"ability": [
-						{
-							"str": 1,
-							"con": 1
-						}
-					],
 					"entries": [
 						{
 							"type": "entries",
@@ -150,6 +141,18 @@
 						"entries": [
 							"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
 						]
+						}
+					],
+					"overwrite": {
+						"languageProficiencies": true,
+						"darkvision": 20,
+						"resist": [
+							"slashing","piercing"
+						],
+						"ability": [
+						{
+							"str": 1,
+							"con": 1
 						}
 					],
 					"size": "M",
