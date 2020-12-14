@@ -117,7 +117,14 @@
 			"subraces": [
 				{
 					"name": "Fir tree",
-					"source": "",
+                    "source": "",
+                    "entries":{
+                        "type": "entries",
+                        "name": "Tail whip",
+                        "entries": [
+                            "Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
+                        ]
+                    },
 					"overwrite": {
 						"languageProficiencies": true,
 						"resist": [
@@ -128,15 +135,7 @@
 							{
 								"str": 1,
 								"con": 1
-							},
-							{
-								"type": "entries",
-								"name": "Tail whip",
-								"entries": [
-									"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
-								]
 							}
-							
 						]
 					}
 				},
