@@ -1,0 +1,231 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"_meta": {
+		"sources": [
+			{
+				"json": "Gorgon_Race",
+				"full": "Mythical Odysseys of Theros Gorgon race",
+				"abbreviation": "MOOTG",
+				"authors": [
+					"Erin Kakazu"
+				],
+				"version": "1.0.8",
+				"url": "https://www.dndbeyond.com/races/506450-gorgon",
+				"targetSchema": "1.0.8"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"race": [
+		{
+			"name": "Gorgon",
+			"source": "Gorgon race Mythical Odysseys of Theros",
+			"page": "",
+			"ability": [
+				{
+					"dex": 1,
+					"con": 1
+				}
+			],
+			"size": "M",
+			"speed": 30,
+			"traitTags": [
+				"uncommon race"
+			],
+			"fluff": {
+				"entries": [
+					{
+						"type": "entries",
+						"name": "History of the Gorgons",
+						"entries": [
+							"Gorgons are seen rarely through out the many planes but are seen less rarely in Theros. They were created by the Goddess Pharika whom they refer to as mother creator. Gorgon devout communites tend to seclude and isolate far away from the other races of Theors. Many Gorgons are shaped by a rough upbringing in the wasteland like lands of Ravnica. They are born along with their siblings in a clutch of soft shelled eggs. Once each clutch reaches 5 years old they are brought to ravnica and the siblings of that clutch are placed seperately among the Devout communities. Gorgon children are male and female, however all children are rendered sterile by Pharika before they are placed on the ravnica plane. Some Gorgons follow Pharika their mother faithfully, while others reject her after struggling through the absence of a loving mother. Gorgon Children Gorgons have male and female among their them but all females are rendererd sterile by Pharika. While some of Pharika's gorgon children look to her coldness as a test of their love and resilience, outcasted and defectors feel that they were simple creations she made with no  attachment to be used and discarded much like tools or playthings. The Gorgon's that leave the Devout communities tend to be loners simply because of their appearance and infamous reputation as unfeeling, dark, and deadly creatures petrifying everyone in sight. Even though many people would be right that they are deadly, and can petrify people they are hardly unfeeling. They are simply, more dangerous because of how much they feel. Many outcasted are angry and hurt by the abandonment of their mother Pharika and sister and brother gorgons. Many Gorgon children ponder as to who their fathers are as Pharika has had multiple partners through the eons. Medusae who are devout often serve as doctors, herbalists, advisors, assassins, and poisoners. Medusae who are defected or outcasted may be more inclined to choose a different class as a way of rebelling further against Pharika. A good example is becoming a paladin Oath of glory (Demigod) and choose to serve a different and often opposing god (Like Kruphix or Keranos). The Devout Communities, Outcasted, and Defectors. There are a total of of 30 devout communities with 25 to 50 medusae in each community. Many Medusae Look very varied from each other and come in many colors from black, brown, tan, monochrome, rainbow and anywhere in between. Many Children of Medusae believe this is partially possible if their mother Pharika had different mates from time to time. The only thing that all Medusae children seem to have in common is their tendrils of snakes they lovingly refer to as their diadems. Medusae are extremely proud of their snakes and painstakingly take care of them making sure their spines do not break as they are very fragile.  All medusae have hard scaled bodies and tend to range in weight from 150 lbs to 300 lbs. Even when small, Medusae tend to be strong and lithe. The commonly make Good Fighters and paladins as a result of their strength but not all follow the path of most resistance and are very versatile in their profession (Class) choices. The devout children often have ranking in their communities. The strongest are normally picked by Pharika to be the community leaders. Leaders keep the community in check and make sure that any orders from Pharika are followed whether it is poison experiments or helping Pharika to thwart Kruphix's Oracles. In these communities there is strict guidelines to follow the teachings and beliefs of their Mother Pharika. If the guidelines are not fully followed then in the harshest punishment of deviation a Medusae's Diadem be cut off or the rendering him or her unable to use their bane (Poison) any longer. At which point they are then outcasted from the group left in a barren wasteland to fend for themselves. Devout occasionally leave the Devout communities when ordained to do so for special missions given by Pharika. The defectors are more commonly Medusae who have escaped the tight grip of their communities and have chosen to venture forth into the world in search of a new life. Once a defector has left they cannot come back to the community or they risk losing their diadems. In these cases defectors tend to often conceal their Diadems and identities from many of the people they meet as an assurance of their own safety, it's not uncommon for them to disguise themselves as creatures that also bare scales on their skin like Dragonborn, Kobolds, or tritons if they are trying to blend in a city. Medusae names Gorgons take on the first four letters of the God they serve as their last name. For example if you follow Pharika then your last name would be Phar, or if you follow Iroas then your last name would be Iroa. If they server no god then they take on the last name that symbolizes their beliefs, or holds special meaning. Female Gorgon Name examples: (Nostra, Sthasos, Mira, Hunura, Hosta, Zovaste, Konica, Phaktule, Kestia, Virsodya, Phasta, Hyzadara, Hellete, Zeso, Zalidaria, Zaxea, etc.) Male Gorgon Name examples:( Phusdetus, Phalagos, Nevantos, Zandris, Dumarus, Stheusos, Thazo, Thulotos, Vyrion, Hadotus, Kandrotese, Chronor, Virerus, Hednys, Kenanos, etc.)"
+						]
+					}
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "www.example.com/image.png"
+						}
+					}
+				]
+			},
+			"darkvision": 30,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Ability Score Increase",
+					"entries": [
+						"Your Dexterity score increases by 2, and your constitution score increases by 1."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Age",
+					"entries": [
+						"Hatchling Medusae grow quickly. They crawl hours after hatching  and start walking days after birth. They grow to to be about the same size as a human young adult of 13 by the age of 5, and reach adulthood by 16 once they reach 16 they continue growing at a very slow rate. They are considered middle aged at about 110 to 165 and live to be around 220."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Alignment",
+					"entries": [
+						"Medusae follow strong beliefs, their background allows them to be either good, evil, or somewhere in between and can really differ from Medusae to Medusae depending on their upbringing within the devout communities and treatment from the Mother Creator Pharika. In cases of extreme rejection of Pharika Medusae may choose to become champions for Keranos the god of Wisdom or Kruphix the god of mysteries. In the Gray areas Medusae may side themselves with any other god or no god. And in cases of extreme devotion they commonly become Champions and servants to Pharika herself or to the Goddess Nylea."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Medusae are only a little taller and heavier than humans but smaller and shorter then dragonborn. They stand at about 6 to 7 feet tall and average about 195 pounds. Your size is Medium."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "speed",
+					"entries": [
+						"Your base walking speed is 30 feet"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"Being a daughter of Pharika comes with some benefits. Being raised by the Devout communities, you had plenty of oppurtunities to learn new languages from your more traveled sisters. You already know Hisszarian and Common and can pick two additional languages your character would know."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Subraces",
+					"entries": [
+						"Essirus (Earth tones), Iridion (iridescent), Arveniom (many colors), Vunaicon (Metallic), "
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Hynotic Gaze",
+					"entries": [
+						"This ability allows a Gorgon to capture the attention of a creature and temporarily freeze them in place. This can only be done if the Gorgon can see the opponents eyes. As they grow and mature the ability grows with them. Once you hit level 6 you are able to use Petrifying gaze an even stronger version."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Pharika's Children",
+					"entries": [
+						"You are a child of Pharika, and do not know who you father is. It's become apparent however that all the clutches have different colors and abilities. It is likely Pharika has had many different partners. Your specie type chooses your scale color and damage type. The Essirius have scales in earthy colors such as whites, creams, tans, browns, and blacks and come in either one color or multiple earthtones creating intricate patterns. This species is most known for it's strength and constitution making them great warriors. The Iridion species is always one color but it has an irridescent rainbow shine over the scales. This species is noted for it's wisdom and charisma but it's also feared due to it's necrotic damage type. Arveniom is the most colorful species with scales, ranging from average colors to neon. This species also has a variety of patterns from solid color to elbaroate diamonds. They are remembered especially by underground organizations because of their intelligence and Dexterity, making them good candidates for heists or unsavory jobs. The Vunaicon species often has metallic scales, they are more commonly just one color, but when they do have patterns their stripes, diamonds, and spots may come in white brown or some other non mettallic color while the bulk of their scales are in a mettalic shade."
+					]
+				}
+			],
+			"subraces": [
+				{
+					"name": "Essirius",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"resist": [
+							"slashing",
+							"piercing"
+						],
+						"darkvision": 20,
+						"Ability Score Increase": [
+							{
+								"str": 1,
+								"con": 1
+							},
+							{
+								"note": "Best classes: Barbarian, Fighter, Monk",
+								"note2": "Okay classes: Ranger, Sorcerer, Artificer",
+								"type": "entries",
+								"name": "Tail whip",
+								"entries": [
+									"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
+								]
+							}
+						]
+					}
+				},
+				{
+					"name": "Iridion",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"immune": [
+							"necrotic"
+						],
+						"darkvision": 60,
+						"Ability Score Increase": [
+							{
+								"wis": 1,
+								"cha": 1
+							},
+							{
+								"note": "Best classes: Cleric, Paladin, Warlock",
+								"note2": "Okay classes: Bard, Druid, Sorcerer, Wizard",
+								"type": "entries",
+								"name": "Bane Spray",
+								"entries": [
+									"You have the ability to puff or blow a 5 by 30 ft. cone of Necrotic mist (Dex save)"
+								]
+							}
+						]
+					}
+				},
+				{
+					"name": "Arveniom",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"immune": [
+							"poison"
+						],
+						"darkvision": 60,
+						"Ability Score Increase": [
+							{
+								"Dex": 1,
+								"int": 1
+							},
+							{
+								"note": "Best classes: rogue",
+								"note2": "Okay classes: ranger, wizard, Monk, Druid, Bard, Arteficer",
+								"type": "entries",
+								"name": "Venom Strike",
+								"entries": [
+									"You have the ability to lash out venom in a stream of terror. attacks in a line up to 30 ft. (Con save)"
+								]
+							}
+						]
+					}
+				},
+				{
+					"name": "Vunaicon",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"resist": [
+							"acid"
+						],
+						"darkvision": 30,
+						"Ability Score Increase": [
+							{
+								"str": 1,
+								"dex": 1
+							},
+							{
+								"note": "Best classes: Ranger, Monk, Rogue.",
+								"note2": "Okay classes: Barbarian, Bard, Fighter ",
+								"type": "entries",
+								"name": "Acid Surge",
+								"entries": [
+									"You are able to gurgle out a fountain of acid in a cone 5 by 30 ft. line (Dex save)"
+								]
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}
