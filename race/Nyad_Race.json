@@ -1,0 +1,219 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"_meta": {
+		"sources": [
+			{
+				"json": "Nyad_Race",
+				"full": "Mythical Odysseys of Theros Dryad race",
+				"abbreviation": "MOOTG",
+				"authors": [
+					"Erin Kakazu"
+				],
+				"version": "1.0.8",
+				"url": "https://www.dndbeyond.com/races/571378-dryad",
+				"targetSchema": "1.0.8"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"race": [
+		{
+			"name": "Nyad",
+			"source": "Nyad race Mythical Odysseys of Theros",
+			"page": "",
+			"ability": [
+				{
+					"cha": 1,
+					"wis": 2
+				}
+			],
+			"size": "M",
+			"speed": 30,
+			"traitTags": [
+				"uncommon race"
+			],
+			"darkvision": 30,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Ability Score Increase",
+					"entries": [
+						"Your charisma score increases by 1, and your wisdom score increases by 2."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Age",
+					"entries": [
+						"Nyads can live endlessly, just like the gods, but they can die from sickness or by being killed. Nyads are known to be in their hatchling stage for 4 years, and as they grow once they hit 100 years this is when they fully mature and appear as though they are around 16 or 17 years old in human age. From 100 on they have an ageless like appearance, they can live to 400 years or 5000 years or more, it all just depends on when the cycle of life takes their bodies back to nourish the life of the ocean. Nyad's do not fear death, they only fear a loss of connection from the home and nature called Apopos. Living life in the Ocean as a Nyad can be dangerous and hard, things that kill them are often larger predators like sharks, pollution of their homes, and species introduced from other habitats that compete for natural resources."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Alignment",
+					"entries": [
+						"Nyad's tend to be more in the gray area of alignment preferring more chaotic beliefs and tend to shy away from lawful beliefs as laws are a construct of man that do not and should not apply to the oceans and it's inhabitants."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Nyads land walker form tends to be small like their original forms. They aren't normally taller then 5'0 but are commonly 4'0 or taller. Your size is Medium."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "speed",
+					"entries": [
+						"Your base walking speed is 30 feet"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+                        "You can speak, read, and write Common and Saeric the ancient language of the oceans"
+					]
+                },
+                {
+					"type": "entries",
+					"name": "Resistance",
+					"entries": [
+                        "You are resistant to radiant damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Subraces",
+					"entries": [
+						"Loh sprite, Crec sprite, Suah sprite, and Groir sprite. "
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fear the flame",
+					"entries": [
+						"Due to you being a plant and all, you are extremely aware of fire and tend to keep your distance, especially around community campfires with all their flying embers. No one can forget what happened to Vermillia the one time she got to close, Yikes! You don't fear fire though, you just respectfully give it the space it deserves."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sea Foam",
+					"entries": [
+						"Nyads and Dryads are of the same ilk, they are both born of dreams come forth from nyx into reality. And yet Nyads are a much older race, they have been able to wander the mortal plane of Theros for much longer then the Dryads. Nyad's cling strongly to their homeland, carefully tending to it, and fixing that which is destroyed by most land walkers as they call them. The first nyx born creature was a Nyad created from Kruphix as a way to help keep the balance between the power of the gods. Though the oceans are vast, Kruphix knows that land walkers were beginning to venture more into the sea. He is tied to Thassa goddess of the sea, in many mystical ways, and if she were to be harmed, he would ultimately suffer. The Nyads were created as a race to be chess pieces in which Kruphix, Thassa, or Keranos could call upon in times of need to keep the balance. The Nyads in this way would serve as the guiding hands of the gods. Nyad's are normally tied to their grotto or place of comfort. They pick their home based on their Nyadic Race. There is the Loh Sprite (Very fluttery fins, like Sea Dragons, Glaucus atticus, and lion fish.),  Crec sprite (Crustacean, crabs, shrimp, lobsters, tetrapods.)  Suah sprite, ( agile fish like, Beta, Goldtip Tetra, tuna, mandarin fish etc.)  and Groir sprite (Predatory, eels, stingrays, octopus, squid, etc.). Nyads have a beast form and a land form, their beast form correlates to the creature they are. For example crec sprites may appear as a crab or lobster in their beast form while groir might appear as octopai. Loh sprites, and Suah sprites, carry around with them what's called a Salirium. Where as Crecs and Groir carry something similar called a shediam. Saliriums are ornately decorated glass flasks depicting their homes, and filled with the sea water of their home. The Shediam is a shell they may have lived in, or a piece of coral, that has been modified magically to hold the waters of their last lived in habitat. Shediams and Seliriums are carried to ward of the cycle of Apospo. If they venture too far away from their homes and go too long with out contact to the ocean, then they will begin to undergo the cycle of Apospo. When this happens they lose their nyx connection to their homes and slowly transform from their mystical being into a human. They lose their ability to speak and understand Saeric and become mortal. Nyads often experience a sense of loss and deep sadness when undergoing the Apospo cycle. "
+					]
+                },
+                {
+					"type": "entries",
+					"name": "Wild and helping",
+					"entries": [
+						"Nyads love to play in the currents of the ocean, and with other living creatures of the ocean, they also tend to congregate into communities. They have a strong love for their home and all the creatures around them, they love helping the smaller creatures or less fortunate. Often times Nyad's tend to the health of Corals, kelps, sea weeds, schools of fish, or animals trapped by hurt by pollution. Nyad's are known as kind and compassionat because of their playfullness, and kindess especially when shown kindness from others. They are also known as wild because wrathful anger, should you damage their home in front of them, they will view it as a personal attack. Or some nyads will also get angry (depending on their beliefs) if they see you killing fish and animals, and harvesting kelp, coral, and other natural items of the ocean as taking the oceans natural resources that the inhabitants of the ocean need to survive. "
+					]
+                }
+
+			],
+			"subraces": [
+				{
+					"name": "Loh sprite",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"resist": [
+							"slashing","piercing"
+						],
+						"darkvision": 20,
+						"ability": [
+							{
+								"str": 1,
+								"con": 1
+							},
+							{
+								"type": "entries",
+								"name": "Tail whip",
+								"entries": [
+									"Because you're strong and your long tail is enforced by thick scales you are able to use it as a whip. reaches in a 30 ft. line (Dex save)"
+								]
+							}
+							
+						]
+					}
+				},
+				{
+					"name": "Suah sprite",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"immune": [
+							"necrotic"
+						],
+						"darkvision": 60,
+						"ability": [
+							{
+								"wis": 1,
+								"cha": 1
+							},
+							{
+								"type": "entries",
+								"name": "Bane Spray",
+								"entries": [
+									"You have the ability to puff or blow a 5 by 30 ft. cone of Necrotic mist (Dex save)"
+								]
+							}
+						]
+					}
+				},
+				{
+					"name": "Crec sprite",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"immune": [
+							"poison"
+						],
+						"darkvision": 60,
+						"ability": [
+							{
+								"Dex": 1,
+								"int": 1
+							},
+							{
+								"type": "entries",
+								"name": "Venom Strike",
+								"entries": [
+									"You have the ability to lash out venom in a stream of terror. attacks in a line up to 30 ft. (Con save)"
+								]
+							}
+						]
+					}
+				},
+				{
+					"name": "Groir sprite",
+					"source": "",
+					"overwrite": {
+						"languageProficiencies": true,
+						"resist": [
+							"acid"
+						],
+						"darkvision": 30,
+						"ability": [
+							{
+								"str": 1,
+								"dex": 1
+							},
+							{
+								"type": "entries",
+								"name": "Acid Surge",
+								"entries": [
+									"You are able to gurgle out a fountain of acid in a cone 5 by 30 ft. line (Dex save)"
+								]
+							}
+						]
+					}
+                }
+                
+			]
+		}
+	]
+}
