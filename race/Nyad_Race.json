@@ -118,7 +118,6 @@
 				{
 					"name": "Loh sprite",
 					"source": "",
-					"overwrite": {
 						"languageProficiencies": true,
 						"resist": [
 							"slashing","piercing"
@@ -138,7 +137,6 @@
 							}
 							
 						]
-					}
 				},
 				{
 					"name": "Suah sprite",
